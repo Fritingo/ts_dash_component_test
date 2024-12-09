@@ -1,0 +1,1 @@
+# ts_dash_component_test
